@@ -404,7 +404,7 @@ Create a new JSON file in the `agents` directory following this structure:
 }
 ```
 
-## Available Commands
+## Available Commands:
 
 Use `help` in the CLI to see all available commands. Key commands include:
 
